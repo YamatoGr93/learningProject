@@ -6,4 +6,4 @@ This project demonstrates various encoding techniques in Go. It includes functio
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/encoding-demo.git
+   git clone https://github.com/YamatoGr93/learningProject.git
